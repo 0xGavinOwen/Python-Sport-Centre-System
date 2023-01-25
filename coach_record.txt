@@ -1,0 +1,12 @@
+sirrrrrrrrrr,gavin,090102,-,200,087852558020,pakuwon,1,basketball,surabaya,5
+2,edo,090106,-,500,087852558090,graha,2,volleyball,bali,4
+3,kent,080112,-,250,087852558040,citraland,3,archery,bali,3
+4,lucy,010215,-,150,087852557010,natura,4,gymnastics,jakarta,4
+5,yordan,120119,-,500,087853551090,meikartaland,5,football,jakarta,5
+6,john,131217,-,300,089856778016,lippo,6,tennis,bali,1
+7,angel,070917,-,450,086757889015,citraland,7,swimming,bali,2
+8,greg,020619,-,300,087865667956,mentari,8,cricket,jakarta,5
+10,zidane,121118,-,350,0890387881526,permai,10,table tennis,surabaya,4
+9,vanes,090119,-,150,0878525580801,mitra,9,badminton,surabaya,5
+13,tanveer,090101,-,100,082132133123,123213123213,1231221312,12312312321312,bali,5
+14,aiai,0507002,-,100,081232131231231,dukuh kupang ,14,orang gabut,surabaya,5

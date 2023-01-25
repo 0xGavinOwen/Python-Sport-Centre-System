@@ -1,0 +1,10 @@
+1,basketball,monday,1pm,1 hour
+2,volleyball,saturday,3pm,2 hours
+3,arcehry,sunday,3pm,1 hours
+4,gymnastics,friday,6pm,3 hours
+5,football,wednesday,7pm,2 hours
+6,tennis,thursday,8pm,1 hours
+7,swimming,monday,8pm,2 hours
+8,cricket,saturday,11am,2 hours
+9,badminton,sunday,10pm,2 hours
+10,table tennis,wednesday,9pm,1 hours

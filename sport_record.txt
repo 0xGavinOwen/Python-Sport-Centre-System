@@ -1,0 +1,10 @@
+8888,basketball,surabaya
+2,volleyball,bali
+3,archery,bali
+4,gymnastics,jakarta
+5,football,jakarta
+6,tennis,bali
+7,swimming,bali
+8,cricket,jakarta
+9,badminton,suarbaya
+10,table tennis,surabaya

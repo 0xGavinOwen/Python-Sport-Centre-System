@@ -1,0 +1,11 @@
+1,1,1,sirrrrrrrrr,pakuwon,087843117090,040604,basketball
+2,2,2,leo,citraland,086754668798,070710,volleyball
+3,3,3,cleve,graha,087865778190,010109,archery
+4,4,4,tian,royal,08123123121,040111,gymnastics
+5,5,5,ruben,dian,081231233451,020202,football
+6,6,6,miata,citraland,0812321331,030405,tennis
+7,7,7,eva,lampung,088125621784,080902,swimming
+8,8,8,grace,semarang,0812382137112,080107,cricket
+9,9,9,moudy,malang,082893123121,090102,badminton
+10,10,10,bagus,lombok,081231236454,040105,table tennis
+14,14,14,aiko,kupang jaya,0123123123213,070502,aiai
